@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/manojlo-ili%C4%87-141261192/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
    </p> 
    
-<p> Software developer living in Split, always coding always learning, </p>
+<p> I'm Software developer living in Split, always coding always learning, </p>
 <p>Some of the things i code with </p>
 <img align="right" alt="GIF" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" width="500" height="320" />
 
